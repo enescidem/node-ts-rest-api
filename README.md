@@ -1,5 +1,11 @@
 # A REST API With Node, Express, TypeScript & MongoDB + Authentication
 
+### Medium Links:
+
+English: https://medium.com/@enescidem/jwt-authentication-user-management-with-typescript-express-bcac5ed28248
+
+Turkish: https://medium.com/@enescidem/typescript-express-ile-jwt-kimlik-doğrulama-ve-kullanıcı-yönetim-sistemi-b4ec1c66f723
+
 This project demonstrates a **RESTful API** built with **Node.js**, **Express**, **TypeScript**, and **MongoDB**, featuring user authentication and CRUD operations.
 It was developed to practice backend architecture, authentication flows, database integration, and API testing using **Restfox**.
 
