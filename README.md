@@ -5,6 +5,25 @@ It was developed to practice backend architecture, authentication flows, databas
 
 ---
 
+## 🚀 Features
+
+* Built with **Node.js** and **Express**
+* Written in **TypeScript**
+* Database: **MongoDB**
+* Authentication (login & register endpoints)
+* CRUD operations for data management
+* API testing with **Restfox**
+
+## 📂 Project Structure
+
+The project is organized for readability and scalability, including:
+
+* `src/` → main application code
+* `routes/` → API routes
+* `controllers/` → business logic
+* `models/` → MongoDB schemas
+* `middleware/` → authentication & validation
+
 ## 📌 Overview
 
 The API allows users to:
