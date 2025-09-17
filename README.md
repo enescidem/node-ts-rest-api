@@ -34,6 +34,7 @@ The API allows users to:
 Proje dosya yapısı şu şekilde:
 
 src/
+
 ├── controllers/ # İş mantığını yöneten controller dosyaları
 
 ├── db/ # Veritabanı işlemleri
