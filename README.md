@@ -35,10 +35,15 @@ Proje dosya yapısı şu şekilde:
 
 src/
 ├── controllers/ # İş mantığını yöneten controller dosyaları
+
 ├── db/ # Veritabanı işlemleri
+
 ├── helpers/ # Yardımcı fonksiyonlar (şifreleme, JWT vb.)
+
 ├── middlewares/ # Middleware katmanı
+
 ├── router/ # API endpoint tanımları
+
 └── index.ts # Ana giriş noktası
 
 ---
