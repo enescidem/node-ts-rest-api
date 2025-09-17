@@ -45,19 +45,6 @@ Server runs at:
 
 ---
 
-## 📂 Project Structure
-
-```
-src/
- ┣ controllers/   → Business logic for routes
- ┣ middleware/    → Authentication & validation
- ┣ models/        → Mongoose schemas
- ┣ routes/        → API endpoints
- ┗ server.ts      → Main application entry
-```
-
----
-
 ## 🔑 Authentication Flow
 
 1. **Register** → Create a new user with encrypted password.
